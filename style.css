@@ -1,0 +1,48 @@
+body{
+background:linear-gradient(#fd746c,#1fddff,#a044ff);
+font-family: 'STIX Two Math', serif; 
+}
+.header_div{
+color:orange;    
+}
+.header_div img{
+ width: 100px   
+}
+.main_div
+{
+  background-color: lightcoral;  
+  padding: 10px;
+  margin-top: 15px;
+  border: 3px solid lightblue;
+}
+.main_div label
+{
+background:darkcyan;
+width: 310px;
+padding:10px;
+margin-bottom: 0px;
+color:darkviolet;
+box-shadow: 5px 5px 18px yellow;
+}
+#camera
+{
+    border: 2px solid lightgreen;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px red;
+}
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px darkviolet;
+}
+#result{
+ background:linear-gradient(#f12711,#f5af19,#ffd452#a8ff78,#00B4DB,#a17fe0); 
+ width: 600px;
+ height: 90px;
+ color: deeppink;
+}
+img{
+width:150px;
+}
